@@ -38,6 +38,7 @@
   js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=1555670661336099&version=v2.0";
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
+<meta name="google-site-verification" content="gmmxkFmlskqIi5tulzzOi7YBpwW9m6Y89LAoi-gVpkg" />
 </head>
 
 <body <?php body_class(); ?>>
